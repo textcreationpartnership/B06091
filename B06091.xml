@@ -1,0 +1,287 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A godly guide of directions for true penitent sinners in these troubled times. That we call to God to be our friend, to think upon our latter end, mans life is short and at no stay wee almost have a dying day, that God may guide us along, to bring us to our heavenly home, where our souls may live and ever rest with heavenly angels that are blest. Tune is, Aim not too high. / by Robert Tipping.</title>
+            <author>Tipping, Robert.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670-1696?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06091</idno>
+            <idno type="STC">Wing T1306</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.8[189]</idno>
+            <idno type="EEBO-CITATION">99884927</idno>
+            <idno type="PROQUEST">ocm99884927</idno>
+            <idno type="VID">183359</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06091)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183359)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:2[150])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A godly guide of directions for true penitent sinners in these troubled times. That we call to God to be our friend, to think upon our latter end, mans life is short and at no stay wee almost have a dying day, that God may guide us along, to bring us to our heavenly home, where our souls may live and ever rest with heavenly angels that are blest. Tune is, Aim not too high. / by Robert Tipping.</title>
+                  <author>Tipping, Robert.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcut).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for P. Brooksby at the golden ball in Pye-corner.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1670-1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Verse: "Good people all, I pray you understand ..."</note>
+                  <note>Trimmed.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:183359:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 8 -->
+            <head>A Godly Guide of Directions for true penitent Sinners in theſe troubled times.</head>
+            <argument>
+               <lg>
+                  <l>
+                     <hi>That we call to God to be our friend,</hi>
+                  </l>
+                  <l>
+                     <hi>To think upon our latter end,</hi>
+                  </l>
+                  <l>
+                     <hi>Mans Life is ſhort and at no ſtay</hi>
+                  </l>
+                  <l>
+                     <hi>Wee almoſt have a dying day,</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>That God may guide us along,</hi>
+                  </l>
+                  <l>
+                     <hi>To bring us to our heavenly home,</hi>
+                  </l>
+                  <l>
+                     <hi>Where our Souls may live and ever reſt</hi>
+                  </l>
+                  <l>
+                     <hi>With heavenly Angels that are bleſt.</hi>
+                  </l>
+               </lg>
+            </argument>
+            <opener>Tune is, <hi>Aim not too high by</hi> Robert Tipping:</opener>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>GOod people all, I pray you underſtand</l>
+               <l>Theſe Verſes now which I do take in hand</l>
+               <l>And take good notice I yray you to the end</l>
+               <l>It will put you in mind that God will be you friend</l>
+            </lg>
+            <lg>
+               <l>Theres little Love in this World to be ſeen</l>
+               <l>Our Hearts doth ſwell with malice evermore</l>
+               <l>It is a great wonder for our grievous ſin</l>
+               <l>God does not ſtrike us with ſome grievous ſore.</l>
+            </lg>
+            <lg>
+               <l>There was never ſo much ſwearing in this Land,</l>
+               <l>And taking of gods ſacred name in vain</l>
+               <l>It hurts our peace and does deſtroy our Land.</l>
+               <l>And ſore offends our gracious God of Heaven,</l>
+            </lg>
+            <lg>
+               <l>It is a grievious thing if people would but mind</l>
+               <l>To think how ſinful in this land we be</l>
+               <l>God give us grace that we may mind in time</l>
+               <l>And beg for pardon on our bended knee</l>
+               <l>What innocent blood by Villains has been ſhed.</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+            </lg>
+            <lg>
+               <l>In uſe to bring Gods Iudgement on our head</l>
+               <l>But ſtill his mercies they are manifold.</l>
+               <l>Good Lord that people would but live more civil</l>
+               <l>And ſerve the Lord in moſt loving way</l>
+               <l>And forſake the Sin of Pride that is ſo evil</l>
+               <l>That God may be our friend both night &amp; day</l>
+            </lg>
+            <lg>
+               <l>'Tis not the pride of Cloths but the pride of Heart</l>
+               <l>That hurts a man or Woman I do ſay,</l>
+               <l>The Lord takes notice of the inner part</l>
+               <l>Therefore good people wee had need to pray.</l>
+            </lg>
+            <lg>
+               <l>And let love and charity be more in uſe</l>
+               <l>And ſerve the Lord &amp; keep the Sabbath-day</l>
+               <l>O then there would not be ſo much abuſe</l>
+               <l>But mend our lives I ſay then every way.</l>
+            </lg>
+            <lg>
+               <l>The holy Bible ſhews us every ways</l>
+               <l>It was for ſin the world before was drown'd</l>
+               <l>If we underſtand but what the Scripture ſaith</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+            </lg>
+            <lg>
+               <l>Our Saviour bids us if we be releſt</l>
+               <l>Come with penitent heart our ſouls ſhall make a ſhow</l>
+               <l>And come to him and he will give us reſt</l>
+               <l>If they were as red as ſcarlet hee'l make them as white as <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>?</l>
+            </lg>
+            <lg>
+               <l>Theres many never thinks of ſerving God</l>
+               <l>For many ſudden death there is truely,</l>
+               <l>But runs on in ſin untill they be ſtruckned dead,</l>
+               <l>And as the tree doth fall ſo it will lye.</l>
+            </lg>
+            <lg>
+               <l>You ſee what warning-pieces God hath ſent</l>
+               <l>By fire and ſword, and ſickneſs for our ſins,</l>
+               <l>To turn our hearts that we may all repent</l>
+               <l>Yet to mend we're loth for to begin.</l>
+            </lg>
+            <lg>
+               <l>Let's leave our ſi ns &amp; pray for ſpiritual Grace</l>
+               <l>To trim our lamps, to fill them up with Oyl</l>
+               <l>Our dying day is coming on a pace</l>
+               <l>Then God will give A bleſſing to our Souls.</l>
+            </lg>
+            <lg>
+               <l>Gods mercy it is great we may be ſure</l>
+               <l>If we with penitent hearts can but repent</l>
+               <l>If we with patience can our Croſs indure</l>
+               <l>In Health or Sickneſs truely be content.</l>
+            </lg>
+            <lg>
+               <l>And lets be careful how our time we ſpend</l>
+               <l>And love our Neighbour and relieve the poor</l>
+               <l>Whatever we do that God may be our Friend,</l>
+               <l>Gods mercies they will bleſs us and our Store,</l>
+            </lg>
+            <lg>
+               <l>Now all good people I ſay no more but this</l>
+               <l>Lets live in Love while this Life doth endure,</l>
+               <l>Let every one mend what is amiſs</l>
+               <l>Gods love is to thoſe people to beſure.</l>
+            </lg>
+            <lg>
+               <l>Our time is ſhort we have not long to ſtay</l>
+               <l>But yet lets ſtrongly ſtand upon our guard,</l>
+               <l>God give us grace to mind our latter day</l>
+               <l>That our ſouls in Heaven may have a good reward.</l>
+            </lg>
+            <lg>
+               <l>Concluding of theſe verſes now in print</l>
+               <l>God bleſs us all &amp; ever to our death</l>
+               <l>That all may underſtand what here is int</l>
+               <l>When he is pleas'd that we ſhall looſe our Breath.</l>
+            </lg>
+            <lg>
+               <l>The oldeſt man that ever lik'd oth earth</l>
+               <l>Had but his time he at the laſt did dye,</l>
+               <l>We muſt ſtoop to death &amp; leave this life at laſt</l>
+               <l>Let us work for Heaven, and Heavenly Eternity.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for P. Brooksby at the golden ball in Pye-Corner.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
